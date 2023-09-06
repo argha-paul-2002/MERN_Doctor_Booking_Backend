@@ -34,6 +34,11 @@
     - [Express.js](https://expressjs.com/)
     - [MongoDB](https://www.mongodb.com/)
 
+- 🌐 **Frontend**(Link to Frontend Repository): [Medico - Frontend](https://github.com/argha-paul-2002/MERN_Doctor_Booking_Frontend)
+    - [React.js](https://reactjs.org/)
+    - [Node.js](https://nodejs.org/)
+    - [Tailwind CSS](https://tailwindcss.com/)
+
 ---
 
 ## 🚦 Getting Started
